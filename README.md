@@ -1,4 +1,4 @@
-# Linux macOS Recovery USB Creator
+# Linux macOS Recovery USB Creator [![Stars](https://img.shields.io/github/stars/im0x/Linux-macOS-Recovery-USB-Creator?style=social)](https://github.com/im0x/Linux-macOS-Recovery-USB-Creator)
 
 Create a bootable macOS Recovery USB from any major Linux distro (Debian/Ubuntu, Fedora, Arch, etc.). Targets Monterey (12.6) by default; adapts for Ventura/Sonoma via fetch-macOS.py. Uses Apple's BaseSystem.dmg for legal, direct recovery boot—no full installer bloat.
 
